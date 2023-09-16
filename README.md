@@ -137,4 +137,4 @@ The project evaluates the performance of different models using accuracy as the 
 
 ## Conclusion
 
-This project takes a fresh approach to the Dogs vs. Cats classification problem by combining datasets, training models using TensorFlow and PyTorch, and deploying models for real-time predictions via FastAPI. The results showcase the performance of various models and demonstrate the potential for combining diverse datasets to create more complex and challenging classification tasks. The deployment of ONNX models with Fast
+This project takes a fresh approach to the Dogs vs. Cats classification problem by combining datasets, training models using TensorFlow and PyTorch, and deploying models for real-time predictions via FastAPI. The results showcase the performance of various models and demonstrate the potential for combining diverse datasets to create more complex and challenging classification tasks. The deployment of ONNX models with FastAPI adds practicality to the project, allowing users to interact with the models
